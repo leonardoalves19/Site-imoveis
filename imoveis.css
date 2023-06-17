@@ -1,0 +1,75 @@
+.header{
+    background: rgb(53, 42, 55);
+   margin-bottom: 10px;
+}
+.logo{
+    width: 100px;
+}
+.header_area{
+    padding: 10px;
+}
+.menu_area{
+    margin-top: 10px;
+    
+}
+.menu_area nav a {
+    background-color: rgb(83, 5, 104);
+    color: rgb(231, 219, 238) !important;
+    margin: 10px;
+    
+}
+.menu_area nav a:hover {
+    background-color: rgb(190, 161, 196);
+}
+.active{
+    background-color: rgb(83, 5, 104) !important;
+    color: rgb(224, 174, 255) !important;
+}
+.navega{
+    background-color: rgb(139, 139, 184);
+}
+
+
+.main{
+    background-color: rgb(125, 124, 118);
+}
+.main .card{
+    margin-bottom: 15px;
+    color: black;
+    
+}
+.main_area btn{
+color: blue;
+}
+.main_area{
+    margin-bottom: 20px;
+    background-color: rgb(139, 139, 184);
+    
+}
+.main_area img {
+    height: 550px;
+}
+
+.footer{
+    background-color:  rgb(53, 42, 55);
+    margin-top: 20px;
+    color: beige;
+}
+.footer_area{
+    padding: 20px;
+    text-align: center;
+}
+
+.menu_area2{
+    margin-top: 30px;
+    background-color: rgb(139, 139, 184);
+}
+.menu_area2 nav a {
+    background-color: rgb(96, 78, 2);
+    color: rgb(231, 219, 238) !important;
+    margin: 10px;
+    
+}
+.menu_area2 nav a:hover {
+    background-color: rgb(219, 200, 28);
+}
